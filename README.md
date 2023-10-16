@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FranRR96</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicente-97" alt="vicente-97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FranRR96" alt="FranRR96" /></a> </p>
 
 ### <div align="center">I'm Fran, a full-time web application development student💻🚀</div>  
 
